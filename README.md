@@ -73,7 +73,3 @@ The system uses:
 - Transfer learning using pretrained weights
 
 ---
-
-## 📊 Speed Estimation
-
-Speed is calculated using:
